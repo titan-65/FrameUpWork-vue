@@ -1,0 +1,40 @@
+const Foodies = {
+	food: [
+		{
+			id: 1,
+			title: 'Chicken ',
+			description: 'Juice burger to make your taste buds. And to make matters worst there is never enough',
+			url: '#',
+			votes: 14,
+			avatar: 'img/avatar/joseph-gonzalez.jpg',
+			foodImageUrl: 'img/food-tiny/nadine-primeau-yeEoMHtkCuM-unsplash.jpg',
+		},
+		{
+			id: 2,
+			title: 'Donuts',
+			description: 'Sprinkes and a fresh baked batch of hot dounts will make your mouth water.',
+			url: '#',
+			votes: 10,
+			avatar: 'img/avatar/joseph-gonzalez.jpg',
+			foodImageUrl: 'img/food-tiny/alice-pasqual-TA4JMUD3mkg-unsplash.jpg',
+		},
+		{
+			id: 3,
+			title: 'Spice Latte',
+			description: 'For the coffee lover inside you, you cant resist the sweet brew and aroma',
+			url: '#',
+			votes: 10,
+			avatar: 'img/avatar/joseph-gonzalez.jpg',
+			foodImageUrl: 'img/food-tiny/briana-tozour-3ao0ld_ude0-unsplash.jpg',
+		},
+		{
+			id: 4,
+			title: 'Burger',
+			description: 'Dont make this fool you this is made with love inside.',
+			url: '#',
+			votes: 12,
+			avatar: 'img/avatar/omid-armin.jpg',
+			foodImageUrl: 'img/food-tiny/jonathan-borba-1kA3lACHeqk-unsplash.jpg',
+		},
+	],
+};
